@@ -1,0 +1,4 @@
+[submodule "demorepo"]
+	path = demorepo
+	url = git@github.com:tpetrocz/demorepo.git
+	branch = master
