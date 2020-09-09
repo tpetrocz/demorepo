@@ -1,0 +1,4 @@
+[submodule "git-sub-modules/subdemo"]
+	path = git-sub-modules/subdemo
+	url = git@github.com:tpetrocz/subdemo.git
+	branch = master
